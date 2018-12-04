@@ -1,0 +1,29 @@
+[
+    {
+        "task-name": "HW1.1",
+        "due": "2018-12-01T00:00:00.000Z",
+        "status": "closed",
+        "instructions": "In the following HTML snippet where would you insert\r\nthe `<title>` element and what purpose does it serve?\r\n\r\n```html\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n    <head>\r\n    <meta charset=\"utf-8\">\r\n    <\/head>\r\n    <body>\r\n        <h1>Hello Web!<\/h1>\r\n        <p>Just an example.<\/p>\r\n    <\/body>\r\n<\/html>\r\n```\r\n"
+    },
+
+    {
+        "task-name": "HW1.3",
+        "due": "2018-12-02T00:00:00.000Z",
+        "status": "open",
+        "instructions": "What is the HTTP *Location* header used for?"
+    },
+
+    {
+        "task-name": "HW1.5",
+        "due": "2018-12-02T00:00:00.000Z",
+        "status": "open",
+        "instructions": "In the following HTML snippet insert an internal CSS\r\nstyle sheet to make the first paragraph only be in 18 point\r\nfont and have the color *blue*.\r\n\r\n```html\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n    <head>\r\n    <meta charset=\"utf-8\">\r\n    <\/head>\r\n    <body>\r\n        <h1>Hello Web!<\/h1>\r\n        <p>Just an example.<\/p>\r\n        <p>Another example paragraph.<\/p>\r\n    <\/body>\r\n<\/html>\r\n```\r\n"
+    },
+    {
+        "task-name": "HW2.1",
+        "due": "2018-12-08T00:00:00.000Z",
+        "status": "closed",
+        "instructions": "When would you prefer *Argon2* over *Bcrypt* and vice versa?"
+    }
+
+]
